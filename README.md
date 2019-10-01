@@ -6,7 +6,7 @@
 - Bacchus, L.J., Buller, A.M., Ferrari, G., Peters, T., Devries, K., Sethi, G., … Feder, 	G.S. (2015). Domestic violence and abuse in gay and bisexual men 	attending a sexual health clinic: pilot testing of an educational support intervention for sexual health practitioners [Special issue]. The Lancet, 386.
 - Brown, K.R., Peña, E.V., & Rankin, S. (2017). Unwanted Sexual Contact: Students With Autism and Other Disabilities at Greater Risk. Journal of College Student Development, 58(5), 771-776. doi:10.1353/csd.2017.0059
 - Buster, J.E. (2013). Introduction: Sexual health matters! Fertility and Sterility, 100(4), 897.
-- Centers for Disease Control and Prevention. (2017). Developmental Disabilities. Retrieved from https://ephtracking.cdc.gov/	showDevelopmentalDisabilitiesDefinitions
+- Centers for Disease Control and Prevention. (2017). Developmental Disabilities. Retrieved from https://ephtracking.cdc.gov/showDevelopmentalDisabilitiesDefinitions
 - Centers for Disease Control and Prevention. (2019). Facts About Developmental Disabilities. Retrieved from https://www.cdc.gov/ncbddd/developmentaldisabilities/facts.html
 - Chapman, M.J., Hare, D.J., Caton, S., Donalds, D., McInnis, E., & Mitchell, D. (2013). The Use of Mindfulness with People with Intellectual Disabilities: a Systematic Review and Narrative Analysis. Mindfulness, 	4(2), 179-189.
 - Charleton, P.M., Dennis, J., & Marder, E. (2014). Medical management of children with Down syndrome. Paediatrics and Child Health, 24(8), 362-369. https://doi.org/10.1016/j.paed.2013.12.004
