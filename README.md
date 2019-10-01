@@ -1,6 +1,6 @@
 # SASH references
 
-- American Association on Intellectual and Developmental Disabilities. (n.d.). 	Definition of Intellectual Disability. Retrieved from https://aaidd.org/intellectual-disability/definition
+- American Association on Intellectual and Developmental Disabilities. (n.d.). 	Definition of Intellectual Disability. Retrieved from       https://aaidd.org/intellectual-disability/definition
 - American Association on Intellectual and Developmental Disabilities. (2013). 	Sexuality. Retrieved from https://aaidd.org/news-policy/policy/position-statements/sexuality
 - American Speech-Language-Hearing Association. (2016). An Ugly Truth. Retrieved from https://leader.pubs.asha.org/doi/10.1044/leader.FMP.21012016.4
 - Bacchus, L.J., Buller, A.M., Ferrari, G., Peters, T., Devries, K., Sethi, G., … Feder, 	G.S. (2015). Domestic violence and abuse in gay and bisexual men 	attending a sexual health clinic: pilot testing of an educational support intervention for sexual health practitioners [Special issue]. *The Lancet, 386*.
